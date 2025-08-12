@@ -59,7 +59,7 @@ export default function Desktop({
       className={styles.desktop}
       onClick={handleDesktopClick}
       style={{
-        backgroundImage: `url('https://images.pexels.com/photos/681467/pexels-photo-681467.jpeg')`,
+        backgroundImage: `url('https://cdn.wallpapersafari.com/84/4/CAmsMv.jpg')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         width: "100%",
